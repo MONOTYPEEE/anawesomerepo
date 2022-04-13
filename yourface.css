@@ -1,0 +1,13 @@
+#clover{
+    color:rgb(255, 0, 0);
+    background-color: yellow;
+}
+#gd{
+    background-color:purple;
+    color:yellowgreen;
+}
+.siz{
+    height: 255px;
+    width: 255px;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+div{
+    background-color: purple;
+    color:greenyellow;
+    size: 100px;
+    height: 300px;
+    width: 600px;
+}
+
+.div:hover{
+    background-color: greenyellow;
+    color: purple;
+}
